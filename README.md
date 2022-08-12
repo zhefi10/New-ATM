@@ -50,9 +50,9 @@ New-ATM APP. Whit this application inside your bank application you can do the a
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: Now is responsive;\
+:heavy_check_mark: Highlighted letters;\
+
 
 ## :rocket: Technologies ##
 
